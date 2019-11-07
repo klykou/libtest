@@ -2,10 +2,10 @@ package libtest
 
 // if center is 0,0
 type Init struct {
-	gstring string
+	Gstring string
 }
 
 // Get Eccentricity of Ellipse
 func (e *Init) GetString() string {
-	return "hello lib world " + e.gstring
+	return "hello lib world " + e.Gstring
 }
