@@ -1,4 +1,4 @@
-module bitbucket.org/ilabs-capco/gcp-functions
+module github.com/klykou/libtest
 
 go 1.11
 
